@@ -2506,35 +2506,35 @@
     "@ethersproject/properties" "^5.7.0"
     "@ethersproject/strings" "^5.7.0"
 
-"@gnosis.pm/safe-apps-provider@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-provider/-/safe-apps-provider-0.10.3.tgz#0ce03a3e96920c375a56a66329e610b845396c00"
-  integrity sha512-KA3kXNqW2eSPiNnaTgB+abdYpWveuO43S4Z/vSnB+4rLyLk7d2AiBk4IHhiZgpet2xqn7Q19e/kJIeE/Cd/ndA==
+"@gnosis.pm/safe-apps-provider@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-provider/-/safe-apps-provider-0.13.2.tgz#b4963c51e2ae5e86198c7ca42248ab4d97355919"
+  integrity sha512-n/sd6Nq7Kg1ZRSB4zMy7lFV+5R5ZXFKd2ZtvIq0cBvkTM9K2sDNhqTE1Em2uy0hM5wKdWlTfJtwh6YkWVhoXDg==
   dependencies:
-    "@gnosis.pm/safe-apps-sdk" "7.2.0"
+    "@gnosis.pm/safe-apps-sdk" "7.8.0"
     events "^3.3.0"
 
-"@gnosis.pm/safe-apps-sdk@7.2.0":
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-sdk/-/safe-apps-sdk-7.2.0.tgz#99a39d37b6472c27052249259e2b2246fb0d14f4"
-  integrity sha512-Lz11y7mTBpnyWDiBC7y353kKCC26+5m1RjOdlwrm0Xy0dS8g9m9YP//wCfJsngjUBxN0QP3mrnv0sfOfvckRdA==
+"@gnosis.pm/safe-apps-sdk@7.8.0":
+  version "7.8.0"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-sdk/-/safe-apps-sdk-7.8.0.tgz#295ab9d563b94208e3042495cdba787fa035c71e"
+  integrity sha512-kO8fJi1ebiKN9qH1NdDToVBuDQQ0U9NkL467U+84LtNTx5PzUJIu6O7tb4nZD24e/OItinf5W8GDWhhfZeiqOA==
   dependencies:
-    "@gnosis.pm/safe-react-gateway-sdk" "^2.10.0"
-    ethers "^5.4.7"
+    "@gnosis.pm/safe-react-gateway-sdk" "^3.1.3"
+    ethers "^5.6.8"
 
-"@gnosis.pm/safe-apps-web3-react@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-web3-react/-/safe-apps-web3-react-1.2.0.tgz#5c38643367b62625c6cd7abec3cae527b4d821a8"
-  integrity sha512-hs4jXnrlNDXd8dBZRC5aFJCrsuI0n7WZzXotTg6A8DskHFwzNhNMI5jZMqzmvLihqb/afxfF6jtegrp+TYadWg==
+"@gnosis.pm/safe-apps-web3-react@^1.5.3":
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-apps-web3-react/-/safe-apps-web3-react-1.5.3.tgz#efa412bb6fcba33631d194377e016f42f35c9a73"
+  integrity sha512-GCIv0OruTZgWLQA11AsOzE4zlQwr6eOI43rfwED5ME/kw9Qj6QVLZWacwp4EbPBWWVU63Ex0j7ncxD9PBUwCnQ==
   dependencies:
-    "@gnosis.pm/safe-apps-provider" "0.10.3"
-    "@gnosis.pm/safe-apps-sdk" "7.2.0"
+    "@gnosis.pm/safe-apps-provider" "0.13.2"
+    "@gnosis.pm/safe-apps-sdk" "7.8.0"
     "@web3-react/abstract-connector" "6.0.7"
 
-"@gnosis.pm/safe-react-gateway-sdk@^2.10.0":
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-react-gateway-sdk/-/safe-react-gateway-sdk-2.10.0.tgz#88e2307d21d548ea43dde8fa33630d3539e39741"
-  integrity sha512-P0A6XgjpEwCzZpk0vjLOYuaOmXL020khJF9FQRwCYPrllPUzrGjpm5gdqExNdnefrrDUKeWUumkucoXqBaMblA==
+"@gnosis.pm/safe-react-gateway-sdk@^3.1.3":
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-react-gateway-sdk/-/safe-react-gateway-sdk-3.5.2.tgz#088b0d5db2eb7524ff4141795ecf948adc40c97c"
+  integrity sha512-6P2uJMnhHcJeErd/t13ChH6sda+vUIOqcrcUDKyWCNXpcmMniPcZzkQxZ8cYz186gQFbslsHSjQ6twnh4yhXUw==
   dependencies:
     cross-fetch "^3.1.5"
 
@@ -6848,7 +6848,7 @@ ethereumjs-util@^7.1.0:
     ethereum-cryptography "^0.1.3"
     rlp "^2.2.4"
 
-ethers@^5.4.7, ethers@^5.5.0:
+ethers@^5.5.0:
   version "5.5.4"
   resolved "https://registry.npmjs.org/ethers/-/ethers-5.5.4.tgz"
   integrity sha512-N9IAXsF8iKhgHIC6pquzRgPBJEzc9auw3JoRkaKe+y4Wl/LFBtDDunNe7YmdomontECAcC5APaAgWZBiu1kirw==
@@ -6884,7 +6884,7 @@ ethers@^5.4.7, ethers@^5.5.0:
     "@ethersproject/web" "5.5.1"
     "@ethersproject/wordlists" "5.5.0"
 
-ethers@^5.7.2:
+ethers@^5.6.8, ethers@^5.7.2:
   version "5.7.2"
   resolved "https://registry.yarnpkg.com/ethers/-/ethers-5.7.2.tgz#3a7deeabbb8c030d4126b24f84e525466145872e"
   integrity sha512-wswUsmWo1aOK8rR7DIKiWSw9DbLWe6x98Jrn8wcTflTVvaXhAMaB5zGAXy0GYQEQp9iO1iSHWVyARQm11zUtyg==
