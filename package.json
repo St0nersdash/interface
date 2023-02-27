@@ -69,7 +69,7 @@
     "ethereum-blockies-base64": "^1.0.2",
     "ethers": "^5.7.2",
     "gray-matter": "^4.0.3",
-    "immer": "^9.0.15",
+    "immer": "^9.0.19",
     "lowdb": "^5.0.5",
     "next": "13.1.6",
     "paraswap-core": "^1.0.2",
