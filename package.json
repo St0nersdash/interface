@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@aave/contract-helpers": "^1.13.3",
-    "@aave/math-utils": "^1.13.3",
+    "@aave/math-utils": "^1.13.5",
     "@emotion/cache": "11.10.3",
     "@emotion/react": "11.10.4",
     "@emotion/server": "latest",
