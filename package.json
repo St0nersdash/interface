@@ -67,7 +67,7 @@
     "dayjs": "^1.11.5",
     "eth-provider": "^0.13.6",
     "ethereum-blockies-base64": "^1.0.2",
-    "ethers": "^5.7.2",
+    "ethers": "^6.0.2",
     "gray-matter": "^4.0.3",
     "immer": "^9.0.19",
     "lowdb": "^5.0.5",
