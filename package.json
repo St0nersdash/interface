@@ -44,7 +44,7 @@
     "@mui/material": "^5.10.9",
     "@paraswap/sdk": "5.6.0-alpha.3",
     "@visx/axis": "^3.0.0",
-    "@visx/curve": "^2.1.0",
+    "@visx/curve": "^3.0.0",
     "@visx/event": "^2.6.0",
     "@visx/gradient": "^3.0.0",
     "@visx/grid": "^3.0.0",
