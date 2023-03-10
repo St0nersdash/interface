@@ -34,7 +34,7 @@
     "@aave/contract-helpers": "^1.13.3",
     "@aave/math-utils": "^1.13.5",
     "@emotion/cache": "11.10.3",
-    "@emotion/react": "11.10.4",
+    "@emotion/react": "11.10.6",
     "@emotion/server": "latest",
     "@emotion/styled": "11.10.4",
     "@gnosis.pm/safe-apps-web3-react": "^1.5.3",
