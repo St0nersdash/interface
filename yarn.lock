@@ -9,10 +9,10 @@
   dependencies:
     isomorphic-unfetch "^3.1.0"
 
-"@aave/math-utils@^1.13.5":
-  version "1.13.5"
-  resolved "https://registry.yarnpkg.com/@aave/math-utils/-/math-utils-1.13.5.tgz#e46f75685c386846a589cbe83fe594fc1caee47a"
-  integrity sha512-3BZowcvnIIlHaQUSppv4yW7K6RU1D3nEp97WBaiWsAxMu8eMXe9+NFjmlQGmUA7JE8GglzyAU/RoAU9RoCQ3Dw==
+"@aave/math-utils@^1.13.6":
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@aave/math-utils/-/math-utils-1.15.0.tgz#73b2c6d708155bacf41d8ebb5e778ba6c2d877d0"
+  integrity sha512-ONiZjLpfVrS1IIVIS2cIcrWewtUtx+ZAwn9E1D8eOC5+gqNGtVT1vW0HVLWCZshCEjEyPK5K4PA03K1Q6M9mSw==
 
 "@adobe/css-tools@^4.0.1":
   version "4.0.1"
