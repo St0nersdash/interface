@@ -40,7 +40,7 @@
     "@gnosis.pm/safe-apps-web3-react": "^1.5.3",
     "@heroicons/react": "^2.0.16",
     "@lingui/react": "^3.17.1",
-    "@mui/icons-material": "^5.11.0",
+    "@mui/icons-material": "^5.11.11",
     "@mui/material": "^5.10.9",
     "@paraswap/sdk": "5.6.0-alpha.3",
     "@visx/axis": "^3.0.0",
