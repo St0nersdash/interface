@@ -89,7 +89,7 @@
     "@commitlint/config-conventional": "^17.1.0",
     "@ethersproject/experimental": "^5.8.0",
     "@ethersproject/providers": "^5.8.0",
-    "@lingui/cli": "^5.0.0",
+    "@lingui/cli": "^5.3.3",
     "@lingui/macro": "^3.14.0",
     "@next/bundle-analyzer": "^12.1.0",
     "@svgr/webpack": "^7.0.0",
